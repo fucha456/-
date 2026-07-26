@@ -1,0 +1,14 @@
+{
+    "sites": [
+        {
+            "key": "🙈18av🔞[密]",
+            "name": "🙈18av🔞[密]",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.2
+            },
+            "api": "./py/🙈18av🔞[密].py"
+        }       
+    ]
+}
